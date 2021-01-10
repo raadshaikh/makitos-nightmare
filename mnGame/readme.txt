@@ -1,5 +1,6 @@
 For Windows: double-click 'mnGame.exe'.
 For others, use the source code 'mnGame.py' however you like. 'spritesheet.py' will need to be in the same directory, though.
+(The 'res' folder is needed in both cases.)
 ---------
 
 This is a simple, defensive bullet hell-style game.
